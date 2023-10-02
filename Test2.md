@@ -41,3 +41,4 @@
 >git checkout -b branch_name - создание и переход на новую ветку.
 >git checkout -b branch_name - создание и переход на новую ветку.
 >git checkout -b branch_name - создание и переход на новую ветку.
+Контент для третьей ветки 
